@@ -2,4 +2,4 @@
 
 ![image](https://user-images.githubusercontent.com/26451679/150331837-145a6a38-d0e7-4d63-98d5-388a13dfead6.png)
 
-Hand written digit recognition using colvolution neural network 
+Hand written digit recognition using colvolution neural network , matplotlib , numpy 
